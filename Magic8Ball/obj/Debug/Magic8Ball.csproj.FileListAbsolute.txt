@@ -1,0 +1,10 @@
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.AssemblyReference.cache
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Properties.Resources.resources
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.GenerateResource.cache
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.CoreCompileInputs.cache
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb
+C:\Users\teniz\source\repos\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Magic8Ball.resources
